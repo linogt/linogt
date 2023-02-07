@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garcia-565550246)
 [![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linogt.github.io/portifolio/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=linogt&show_icons=true&theme=tokyonight)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=linogt&show_icons=true&theme=transparent)
 
 ### Tecnologias que eu utilizo
 
